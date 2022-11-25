@@ -1,0 +1,17 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/inter.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/__kalegin-michail/header__kalegin-michail.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/_place_header/logo_place_header.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/joseph-beuys/joseph-beuys.css);
+@import url(../blocks/description/joseph-beuys/__brief/joseph-beuys__brief.css);
+@import url(../blocks/description/joseph-beuys/__paragraph-jb/joseph-beuys__paragraph-jb.css);
+@import url(../blocks/description/joseph-beuys/__paragraph/joseph-beuys__paragraph.css);
+@import url(../blocks/landscape/landscape.css);
+@import url(../blocks/landscape/cards/cards.css);
+@import url(../blocks/description/joseph-beuys/__paragraph-beuys/joseph-beuys__paragraph-beuys.css);
+@import url(../blocks/landscape/cards/__item/cards__item.css);
