@@ -4,7 +4,7 @@
         max-height: 32vh;
         margin: auto;
         text-align: center;
-        padding-top: 5.12vh;
+        padding-top: 15vh;
         
     
         font-family: 'Inter';
@@ -22,10 +22,10 @@
 
 @media screen and (max-width: 768px) and (max-height: 7382px) {
     .header__title {
-        max-width: 65vw;
+        max-width: 70vw;
         max-height: 32vh;
         margin: auto;
-        padding-top: 7vh;
+        padding-top: 10vh;
 
 
         font-family: 'Inter';

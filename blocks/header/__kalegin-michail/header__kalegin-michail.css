@@ -3,7 +3,7 @@
                 max-width: 72vw;
                 max-height: 98vh;
                 margin: auto;
-                padding-top: 10vh;
+                padding-top: 11vh;
 
                 
                 
@@ -13,10 +13,9 @@
 
 @media screen and (max-width: 768px) and (max-height: 7382px) {
         .header__kalegin-michail {
-                max-width: 100%;
-                max-height: 76.8vh;
                 margin: auto;
-                padding-top: 11vh;
+                max-width: 100%;
+                padding-top: 10vh;
 
         }
 }

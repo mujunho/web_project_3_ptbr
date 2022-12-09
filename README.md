@@ -1,19 +1,26 @@
-# Projeto 3: De Pátria para Pátria
-### Visão geral    
-* Introdução  
-* Figma  
-* Imagens  
-  
-**Introdução**    
-  
-Este é um projeto que mostra as cidades de origem de alguns funcionários do Practicum. Fizemos isso para que todos os elementos sejam exibidos corretamente em tamanhos de tela populares. Recomendamos investir mais tempo na conclusão deste projeto, pois é mais difícil do que os anteriores.  
-  
-**Figma**  
-  
-* [Link para o projeto no Figma](https://www.figma.com/file/GrMXsb1nThoKf3LFc42Bbh/WEB%2C-Sprint-3-%3A-De-P%C3%A1tria-para-P%C3%A1tria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
-  
-**Imagens**  
-  
-A maneira como você fará isso no trabalho é exportando imagens diretamente do Figma — recomendamos fazer isso para praticar mais. Não se esqueça de otimizá-los [aqui](https://tinypng.com/), para que seu projeto carregue mais rápido. 
-  
-Boa sorte e divirta-se!   
+#  De Pátria para Pátria🙏
+## Descrição do Projeto 💻
+   Nesse projeto foi construído um site para as resoluções de tela
+   nos tamanhos 1280px, 768px e 320px.
+   Foram usados valores em %, vw, vh e fr para tornar o layout responsivo por padrão.
+   Por fim foi usado o Grid Layout do CSS, que tem uma grande vantagem sobre o flexbox,
+   já que pode-se organizar os elementos com estruturas complexas sem precisar escrever
+   um código gigante.
+   
+<div style="display: inline_block"><br>
+  <img align="center" alt="mujunho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="mujunho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+    
+### Status do Projeto 📈
+    Em averiguação.
+      
+#### Contatos 📬
+ <div> 
+  <a href="https://instagram.com/murillo_junho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=100007173314496" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mujunho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+      
+©️ Murillo Junho  Web Developer.
+      
