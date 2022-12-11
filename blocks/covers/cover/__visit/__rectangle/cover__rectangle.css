@@ -1,0 +1,53 @@
+@media screen and (max-width: 1280px) and (max-height: 7473px) {
+    .cover__rectangle {
+        max-width: 20vw;
+        max-height: 15vh;
+        margin: auto;
+        margin-top: -8%;
+        padding-top: 3vh;
+        padding-bottom: 1vh;
+        
+
+        background: #0278FE;
+        border-radius: 4px;
+
+
+    }
+
+    .cover__rectangle:hover {
+        background-color: #0063D2;
+    }
+}
+
+@media screen and (max-width: 768px) and (max-height: 7382px) {
+    .cover__rectangle {        
+              
+               
+                
+            background: #0278FE;
+            border-radius: 4px;
+
+
+    }
+
+    .cover__rectangle:hover {
+        background-color: #0063D2;
+    }
+}
+
+@media screen and (max-width: 320px) and (max-height: 9626px) {
+    .cover__rectangle {
+        max-width: 24vw;
+        max-height: 7vh;
+        margin-left: -25%;
+        margin-top: -220%;
+        background: #0278FE;
+            border-radius: 4px;
+
+
+    }
+
+    .cover__rectangle:hover {
+        background-color: #0063D2;
+    }
+}
