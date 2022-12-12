@@ -2,15 +2,12 @@
     .cards__item {
         display: grid;
         
-
-
     }
 }
 
 @media screen and (max-width: 768px) and (max-height: 7382px) {
     .cards__item {
         display: grid;
-        
 
     }
 }
@@ -20,8 +17,5 @@
         display: grid;
         margin-left: -30%;
         
-    
-
-
     }
 }

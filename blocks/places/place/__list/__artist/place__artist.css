@@ -27,7 +27,7 @@
 @media screen and (max-width: 768px) and (max-height: 7382px) {
     .place__artist {
             max-width: 4.5vw;
-            max-height: 2.4vh;           
+            max-height: 2.4vh;
             padding-left: 7vw;
         
             grid-area: artistname;
@@ -54,7 +54,7 @@
     .place__artist {
        margin-left: -118%;
        max-width: 21vw;
-       max-height: 2.5vh; 
+       max-height: 2.5vh;
        margin-top: -35%;
        
 

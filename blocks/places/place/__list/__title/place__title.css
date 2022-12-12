@@ -23,8 +23,7 @@
 @media screen and (max-width: 768px) and (max-height: 7382px) {
     .place__title {
         max-width: 40vw;
-            max-height: 24vh;  
-           
+            max-height: 24vh;
             margin: 0%;
         
             grid-area: kiev;

@@ -1,25 +1,15 @@
 @media screen and (max-width: 1280px) and (max-height: 7473px) {
-    .cards__image {
-        
+    .cards__image {        
         max-width: 20vw;
         max-height: 34vh;
-        
-
 
     }
 }
 
 @media screen and (max-width: 768px) and (max-height: 7382px) {
-    .cards__image {
-       
+    .cards__image { 
         max-width: 90vw;
         max-height: 50vh;
-        
-        
-        
-        
-        
-
 
     }
 }
@@ -28,12 +18,6 @@
     .cards__image {
         max-width: 21vw;
         max-height: 34vh;
-       
-        
-    
-            
-        
-
 
     }
 }

@@ -2,11 +2,9 @@
     .joseph-beuys__paragraph {
         max-width: 65vw;
         max-height: 30vh;
-        margin: auto;
         padding-top: 6vh;
         margin-left: 11vw;
         
-
         font-family: 'Inter';
         font-style: normal;
         font-weight: 400;
@@ -44,7 +42,6 @@
 .joseph-beuys__paragraph {
         max-width: 71vw;
         max-height: 29vh;
-        margin: auto;
         padding-top: 0%;
         margin: 3%;
 
