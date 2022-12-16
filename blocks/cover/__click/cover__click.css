@@ -1,0 +1,30 @@
+.cover__click {
+  font-size: 18px;
+  padding: 13px 20px;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  z-index: 1;
+
+  text-align: center;
+  margin: auto;
+  background: #0278fe;
+}
+
+.cover__click:hover {
+  cursor: pointer;
+  background-color: #0063d2;
+}
+
+@media screen and (max-width: 10124px) {
+  .cover__click {
+    margin-bottom: 246px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .cover__click {
+    max-width: 90%;
+    margin: 16px 64px auto;
+  }
+}

@@ -1,0 +1,29 @@
+.joseph-beuys__human {
+  width: 100%;
+  max-width: 56%;
+  height: 136px;
+  margin-top: 40px;
+  margin-left: 10%;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1024px) {
+  .joseph-beuys__human {
+    max-width: 93%;
+    margin: 40px auto;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .joseph-beuys__human {
+    max-width: 90%;
+    height: 270px;
+    font-size: 24px;
+    line-height: 1.2;
+  }
+}

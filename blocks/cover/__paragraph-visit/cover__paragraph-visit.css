@@ -1,0 +1,25 @@
+.cover__paragraph-visit {
+  max-width: 280px;
+  margin: 0;
+  line-height: 1.22;
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+  z-index: 1;
+}
+
+@media screen and (max-width: 10124px) {
+  .cover__paragraph-visit {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .cover__paragraph-visit {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+
+    line-height: 1.2;
+  }
+}

@@ -1,0 +1,22 @@
+.cover__title-visit {
+  max-width: 100%;
+
+  line-height: 1.05;
+  margin: 243px auto 32px;
+  text-align: center;
+
+  z-index: 1;
+  font-weight: 900;
+  font-size: 72px;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 544px) {
+  .cover__title-visit {
+    margin: 46px 0 16px;
+    line-height: 1.2;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+  }
+}

@@ -1,0 +1,26 @@
+.history__title {
+  width: auto;
+  grid-area: title;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1.2;
+  font-style: normal;
+  color: #ffffff;
+  margin: 92px 0 48px;
+}
+
+@media screen and (max-width: 1024px) {
+  .history__title {
+    width: 340px;
+    font-size: 42px;
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .history__title {
+    font-size: 32px;
+    width: 288px;
+    margin: 50px 0 0;
+  }
+}
