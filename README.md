@@ -1,12 +1,13 @@
-#  De Pátria para Pátria🙏
+# De Pátria para Pátria🙏
+
 ## Descrição do Projeto 💻
-   Nesse projeto foi construído um site para as resoluções de tela
-   nos tamanhos 1280px, 768px e 320px.
-   Foram usados valores em %, vw, vh e fr para tornar o layout responsivo por padrão.
-   Por fim foi usado o Grid Layout do CSS, que tem uma grande vantagem sobre o flexbox,
-   já que pode-se organizar os elementos com estruturas complexas sem precisar escrever
-   um código gigante.
-   
+
+Nesse projeto foi construído um site para adaptar a diferentes resoluções de tela.
+Foram usados valores em %, e fr para tornar o layout responsivo por padrão.
+Por fim foi usado o Grid Layout do CSS, que tem uma grande vantagem sobre o flexbox,
+já que pode-se organizar os elementos com estruturas complexas sem precisar escrever
+um código gigante.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="mujunho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mujunho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,4 +24,3 @@
 </div>
       
 ©️ Murillo Junho  Web Developer.
-      
