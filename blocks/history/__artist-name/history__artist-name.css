@@ -1,0 +1,17 @@
+.history__artist-name {
+  margin-bottom: 48px;
+  margin-top: 199px;
+  grid-area: artist-name;
+}
+
+@media screen and (max-width: 1024px) {
+  .history__artist-name {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .history__artist-name {
+    width: 288px;
+  }
+}

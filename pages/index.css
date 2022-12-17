@@ -1,0 +1,42 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/inter.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__item/cards__item.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__click/cover__click.css);
+@import url(../blocks/cover/__paragraph-visit/cover__paragraph-visit.css);
+@import url(../blocks/cover/__shadow/cover__shadow.css);
+@import url(../blocks/cover/__text-visit/cover__text-visit.css);
+@import url(../blocks/cover/__title-visit/cover__title-visit.css);
+
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/joseph-beuys/joseph-beuys.css);
+@import url(../blocks/description/joseph-beuys/__author/joseph-beuys__author.css);
+@import url(../blocks/description/joseph-beuys/__brief/joseph-beuys__brief.css);
+@import url(../blocks/description/joseph-beuys/__human/joseph-beuys__human.css);
+@import url(../blocks/description/joseph-beuys/__world/joseph-beuys__world.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copy/footer__copy.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__kalegin-michail/header__kalegin-michail.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+
+@import url(../blocks/history/history.css);
+@import url(../blocks/history/__artist-name/history__artist-name.css);
+@import url(../blocks/history/__artist/history__artist.css);
+@import url(../blocks/history/__image/history__image.css);
+@import url(../blocks/history/__name/history__name.css);
+@import url(../blocks/history/__nft/history__nft.css);
+@import url(../blocks/history/__paragraph/history__paragraph.css);
+@import url(../blocks/history/__text/history__text.css);
+@import url(../blocks/history/__title/history__title.css);

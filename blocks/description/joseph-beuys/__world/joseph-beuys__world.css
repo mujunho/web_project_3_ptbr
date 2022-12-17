@@ -1,0 +1,27 @@
+.joseph-beuys__world {
+  width: 100%;
+  max-width: 56%;
+  margin-top: 42px;
+  margin-left: 10%;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1024px) {
+  .joseph-beuys__world {
+    max-width: 93%;
+    margin: 40px auto;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .joseph-beuys__world {
+    max-width: 90%;
+    font-size: 16px;
+    line-height: 1.2;
+  }
+}

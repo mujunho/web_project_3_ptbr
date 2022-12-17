@@ -1,0 +1,36 @@
+.history {
+  display: grid;
+  grid-template-columns: 0.97fr 1.03fr;
+  grid-template-areas:
+    "title artist-name"
+    "image text"
+    "nft text"
+    ". text";
+  grid-gap: 0 3%;
+  margin: auto;
+  max-width: 76%;
+}
+
+@media screen and (max-width: 1024px) {
+  .history {
+    margin: auto;
+    grid-gap: 0 4%;
+    max-width: 95%;
+    margin-top: 10%;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .history {
+    grid-template-columns: auto;
+    grid-template-rows: 1fr;
+    grid-template-areas:
+      "title"
+      "artist-name"
+      "image"
+      "text"
+      "nft";
+    width: 100%;
+    margin: auto;
+  }
+}
